@@ -23,3 +23,10 @@ When your NLP needs grow out of what UralicNLP can provide, we have your back! [
 # The code, data and models
 
 Everything has been released on Zenodo (link to appear soon).
+
+# Cite
+
+If you use the data, code or models, please cite our paper:
+
+  Hämäläinen, Mika; Alnajjar, Khalid; Partanen, Niko & Rueter, Jack (Accepted). Finnish Dialect Identification: The Effect of Audio and Text. In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.
+

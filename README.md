@@ -2,6 +2,8 @@
 
 The repository for our EMNLP 2021 paper "Finnish Dialect Identification: The Effect of Audio and Text". We present a text based model and a text + audio based model for automatically detecting Finnish dialects.
 
+Proudly presented by [Rootroo Ltd](https://rootroo.com/)
+
 # The data
 
 The data consists of several Finnish dialects, their transcriptions and audio files.

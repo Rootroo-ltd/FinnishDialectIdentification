@@ -24,7 +24,7 @@ If you need NLP solutions for smaller languages like Finnish, we have your back!
 
 # The code, data and models
 
-Everything has been released on Zenodo (link to appear soon).
+Everything has been released on Zenodo. [Check out the Zenodo repository](https://zenodo.org/record/5330673).
 
 # Cite
 

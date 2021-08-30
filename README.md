@@ -20,7 +20,7 @@ Here you can see the results of our models
 
 <img src="https://rootroo.com/cropped-logo-01-png/" alt="Rootroo logo" width="128px" height="128px">
 
-When your NLP needs grow out of what UralicNLP can provide, we have your back! [Rootroo offers consulting related to a variety of NLP tasks](https://rootroo.com/). We have a strong academic background in the state-of-the-art AI solutions for every NLP need. Just contact us, we won't bite.
+If you need NLP solutions for smaller languages like Finnish, we have your back! [Rootroo offers consulting related to a variety of NLP tasks](https://rootroo.com/). We have a strong academic background in the state-of-the-art AI solutions for every NLP need. Just contact us, we won't bite.
 
 # The code, data and models
 
